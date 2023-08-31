@@ -4,7 +4,7 @@ import asyncio
 async def listen():
     url = "ws://127.0.0.1:7890"
     async with websockets.connect(url) as ws:
-        await ws.send("Hello friend, I'm Geha window!")
+        while True:
         message = input("send a message 2 server: ")
             await websocket.send(message)
             print(f"Sent message to server: {message}")
