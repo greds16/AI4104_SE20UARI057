@@ -1,4 +1,3 @@
-# Importing the relevant libraries
 import websockets
 import asyncio
 
