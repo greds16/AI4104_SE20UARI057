@@ -15,3 +15,4 @@ Fingerprint Authentication with LED Feedback System using Raspi and Adafruit
 
 CLASS ASSIGNMENT 4 - 15TH OCTOBER 2023.
 Computer vision and NASA RUL. 
+A4_NASA, A4_SARIMA, A4_RESNET
