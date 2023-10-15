@@ -10,3 +10,5 @@ Q1. Scheduling Algorithm - Process Scheduling Analayis
 Q2. Scheduling Algorithm - Real World Scheduling scenario 
 
 
+AI IN INDUSTRY 4.0, CLASS ASSIGNMENT 3 - 15TH OCTOBER 2023.
+Computer vision and NASA RUL. 
