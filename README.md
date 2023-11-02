@@ -1,4 +1,4 @@
-# AI4104_SE20UARI057 - AI IN INDUSTRY 4.0, 
+# AI4104_SE20UARI057 - AI IN INDUSTRY 4.0 - Assignments 
 
 CLASS ASSIGNMENT 1 - 25TH AUGUST 2023.
 A1 : Write a program in python to send a message from client system to server system and vice versa.
@@ -20,3 +20,6 @@ A4_NASA, A4_SARIMA, A4_RESNET
 CLASS ASSIGNMENT - 5 - 24TH OCTOBER 2023.
 Supply chain 
 SE2OUARI057_SE20UARI113 
+
+CLASS ASSIGNMENT - 6 - 3RD NOVEMBER 2023
+Omniverse 
